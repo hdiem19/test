@@ -8,5 +8,6 @@ namespace btvn000.models
 {
     internal class User
     {
+        public int UserName { get; set; }
     }
 }
